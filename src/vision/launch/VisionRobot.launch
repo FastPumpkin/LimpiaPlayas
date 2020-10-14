@@ -1,0 +1,10 @@
+<launch>
+
+<node name = "NodoCamara" pkg = "vision"
+      type = "NodoCamara.py"/>
+
+<node name = "DeteccionDeColor" pkg = "vision"
+      type = "DeteccionDeColor.py"/>
+
+
+</launch>
