@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#Autor: José Roberto López Valeriano
+
 import rospy
 import cv2 as cv
 import numpy as np 
